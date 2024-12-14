@@ -119,5 +119,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 
-Special thanks to all contributors and data providers for supporting this project. If you have any questions or feedback, feel free to raise an issue or contact us.
+Special thanks to all contributors and data providers for supporting this project. If you have any questions or feedback, feel free to raise an issue or contact me.
 
